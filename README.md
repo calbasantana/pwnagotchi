@@ -1,8 +1,8 @@
 IMAGE
 # Introduction
 I have been traveling a lot recently and have been reminiscing about the Tamagotchi era of my youth after reading up on Pwnagotchi, I decided it was time to make one for myself and see what the fuzz was about.
-# 3D-Printed Shell
-There are a lot of readily available STLs to make your own Pwnagotchi shell. I eventually settled on Yet Another Pwnagotchi Case by rmrfus on Thingiverse, which can be found here: https://www.thingiverse.com/thing:6446341/files
+# 3D-Printed Case
+There are a lot of readily available STLs to make your own Pwnagotchi case. I eventually settled on Yet Another Pwnagotchi Case by rmrfus on Thingiverse, which can be found here: https://www.thingiverse.com/thing:6446341/files
 
 I decided to print the sleeker version, without the mount, which I have also attached here as an STL (I hope it is OK to do so).
 ## Specifications & Material(s)
@@ -29,10 +29,18 @@ I bought the following components for the Pwnagotchi:
 * 2.13inch E-Ink Display HAT V4 Version, Black/White Two-Color 250x122 Pixel E-Paper Module for Raspberry Pi 5/ 4B/3B+/3B/2B/A+/Zero W/WH/Zero 2 W/Jetson Nano SPI Interface, Support Partial Refresh - purchased for $22.07 from: https://www.amazon.com/2-13inch-Display-HAT-Two-Color-Raspberry/dp/B07Z1WYRQH/ref=sr_1_3?crid=43TWO7ZPVFTH&dib=eyJ2IjoiMSJ9.wriM7VHLp0A1sF7Mzl_P5y5FggTDyeULA7rIU6OKYnrgOP-ixv3uZJXJ70n07nMNtYb2mfR9IBClhkOraprxu4QQBxoStkGyPkNRnlCN9hmDUqlYKBXktxZKZkmCm6zjcmuOATLdaSq26m9Q8EnM6JmngAxgz6uLNhh2dzYycXJtmwl-ppkjTY8xuCaKVnS827S-EKoCnczxWvGNVC9JyG2l5Bcs9Axs_Xg_qjoZ_ls.v4-vGpi5OvAttscR8LIGFC1bhwBlXgJqOI3V6x9TjPA&dib_tag=se&keywords=waveshare+rev2.1+2.13+inch+hat+epaper&qid=1736018737&sprefix=waveshare+rev2.1+2.13+inch+hat+epape%2Caps%2C113&sr=8-3
 
 The total cost of the project is approximately ~$93. excluding taxes, cost of 3D printed parts, and a couple of 2mm hex screws I had lying around to screw in the bottom of the case.
-# Assembly
-This part is pretty straightforward. First, use the four provided screws to screw the Zero 2W atop the battery. Then, insert the microSD card and place the Waveshare HAT atop the Zero 2W. We still need to add the software piece to it, so set aside the two screws and 3D-printed case.
+# Initial Assembly
+This part is pretty straightforward. First, use the four provided screws to screw the Zero 2W atop the battery. Then, place the Waveshare HAT atop the Zero 2W. We still need to add the software piece to it, so set aside the two screws and 3D-printed case.
 # Software Installation
+Place the microSD card inside a microSD card reader and connect it to your computer.
 
+For this next part, I relied on tutorials that were readily available. One that was really easy to access was the following: https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4?tab=readme-ov-file
+
+1. I first downloaded the .zip pwnagotchi file from: https://github.com/DrSchottky/pwnagotchi/releases/ and the config.toml file from: https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4?tab=readme-ov-file
+2. I then used Raspberry Pi Imager on my Zorin OS Linux computer and flashed the microSD card with the downloaded .zip image.
+![Image_3](https://github.com/user-attachments/assets/cac9cfdf-b572-43e6-a3b5-02df9cf7a7ef)
+3. 
+4. 
 To create the lithophane itself, I went to the following website: https://www.lithophanemaker.com/
  
 I then scrolled down to "Flat Lithophane Maker." Here, I uploaded the file of my choosing, which was of my cat Juno in her halloween costume.
