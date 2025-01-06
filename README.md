@@ -4,7 +4,7 @@ I have been traveling a lot recently and have been reminiscing about the Tamagot
 # 3D-Printed Case
 There are a lot of readily available STLs to make your own Pwnagotchi case. I eventually settled on Yet Another Pwnagotchi Case by rmrfus on Thingiverse, which can be found here: https://www.thingiverse.com/thing:6446341/files
 
-I decided to print the sleeker version, without the mount, which I have also attached here as an STL (I hope it is OK to do so).
+I decided to print the sleeker version, without the mount.
 ## Specifications & Material(s)
 Below you can find the printer and material used.
 ### 3D Printer
