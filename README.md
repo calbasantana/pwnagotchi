@@ -49,6 +49,7 @@ For this next part, I relied on tutorials that were readily available. One that 
 
 7. In your browser, put the following address: http://10.0.0.2:9000/ and now you should be greeted with this:
 
+file:///home/chris/Pictures/Screenshots/Screenshot%20from%202025-01-05%2021-56-01.png
 
 8. 
 9. 
