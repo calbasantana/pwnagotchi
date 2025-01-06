@@ -39,8 +39,13 @@ For this next part, I relied on tutorials that were readily available. One that 
 1. I first downloaded the .zip pwnagotchi file from: https://github.com/DrSchottky/pwnagotchi/releases/ and the config.toml file from: https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4?tab=readme-ov-file
 2. I then used Raspberry Pi Imager on my Zorin OS Linux computer and flashed the microSD card with the downloaded .img file (make sure to extract it from the zipfile first!).
 ![Image_3](https://github.com/user-attachments/assets/cac9cfdf-b572-43e6-a3b5-02df9cf7a7ef)
-3. 
-4. 
+3. Edit the config.toml file as needed (for name of the Pwnagotchi and whitelist networks), then upload it to the boot partition of the microSD card.
+4. Insert the microSD card into the initial assembly block, then connect the Zero 2W using the data port to your PC (microUSB closest to miniHDMI port). After a few minutes, you should see something like this:
+
+![PXL_20250106_005121369](https://github.com/user-attachments/assets/9396606a-23de-462b-b1be-1dd704af26c3)
+
+5. O
+6. 
 To create the lithophane itself, I went to the following website: https://www.lithophanemaker.com/
  
 I then scrolled down to "Flat Lithophane Maker." Here, I uploaded the file of my choosing, which was of my cat Juno in her halloween costume.
