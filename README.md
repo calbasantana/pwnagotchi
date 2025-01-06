@@ -49,9 +49,9 @@ For this next part, I relied on tutorials that were readily available. One that 
 
 7. In your browser, put the following address: http://10.0.0.2:9000/ and now you should be greeted with this:
 
-
 8. The default user is admin and the default password is admin. The next screen should be the GUI for the Pwnagotchi.
-9. 
+
+9. From here, you can make any edits you want. I highly recommend putting it in auto mode. It will, over the next few minutes running, run it in AI mode, which optimizes for efficiency in pwning.
 To create the lithophane itself, I went to the following website: https://www.lithophanemaker.com/
  
 I then scrolled down to "Flat Lithophane Maker." Here, I uploaded the file of my choosing, which was of my cat Juno in her halloween costume.
