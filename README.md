@@ -42,10 +42,16 @@ For this next part, I relied on tutorials that were readily available. One that 
 3. Edit the config.toml file as needed (for name of the Pwnagotchi and whitelist networks), then upload it to the boot partition of the microSD card.
 4. Insert the microSD card into the initial assembly block, then connect the Zero 2W using the data port to your PC (microUSB closest to miniHDMI port). After a few minutes, you should see something like this:
 
-![PXL_20250106_005121369](https://github.com/user-attachments/assets/9396606a-23de-462b-b1be-1dd704af26c3)
+![Image_4](https://github.com/user-attachments/assets/9396606a-23de-462b-b1be-1dd704af26c3)
 
-5. O
-6. 
+5. If you go to network settings on your computer (I am using Zorin OS), you should see USB Ethernet after connecting your Pwnagotchi. Here, edit the IPv4 settings to include the IP address as: 10.0.0.1 and the Netmask as: 255.255.255.0. It should look like this:
+![Image_5](https://github.com/user-attachments/assets/9e50d50e-4f66-421b-b9bf-c010f12e64e3)
+
+7. In your browser, put the following address: http://10.0.0.2:9000/ and now you should be greeted with this:
+
+
+8. 
+9. 
 To create the lithophane itself, I went to the following website: https://www.lithophanemaker.com/
  
 I then scrolled down to "Flat Lithophane Maker." Here, I uploaded the file of my choosing, which was of my cat Juno in her halloween costume.
