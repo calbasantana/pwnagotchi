@@ -37,7 +37,7 @@ Place the microSD card inside a microSD card reader and connect it to your compu
 For this next part, I relied on tutorials that were readily available. One that was really easy to access was the following: https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4?tab=readme-ov-file
 
 1. I first downloaded the .zip pwnagotchi file from: https://github.com/DrSchottky/pwnagotchi/releases/ and the config.toml file from: https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4?tab=readme-ov-file
-2. I then used Raspberry Pi Imager on my Zorin OS Linux computer and flashed the microSD card with the downloaded .zip image.
+2. I then used Raspberry Pi Imager on my Zorin OS Linux computer and flashed the microSD card with the downloaded .img file (make sure to extract it from the zipfile first!).
 ![Image_3](https://github.com/user-attachments/assets/cac9cfdf-b572-43e6-a3b5-02df9cf7a7ef)
 3. 
 4. 
